@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Agentic Workspace",
+  "description": "A multi-agent project workspace with chat, file management, and artifact viewing.",
+  "requestFramePermissions": []
+}
